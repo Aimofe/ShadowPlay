@@ -27,7 +27,6 @@ public class Health : MonoBehaviour
         {
             gamemanager2D.GetComponent<GameManager2D>().vida -= 1;
         }
-
     }
     private void OnCollisionStay(Collision collision)
     {

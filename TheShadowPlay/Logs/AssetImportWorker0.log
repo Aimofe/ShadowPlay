@@ -11,27 +11,19 @@ C:\Program Files\Unity\Hub\Editor\2020.3.10f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/sealfo/Documents/ShadowPlay/ShadowPlay/TheShadowPlay
+C:/Users/aimofe01/Documents/ShadowPlay/ShadowPlay/TheShadowPlay
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-<<<<<<< Updated upstream
-53549
-Successfully changed project path to: C:/Users/sealfo/Documents/ShadowPlay/ShadowPlay/TheShadowPlay
-C:/Users/sealfo/Documents/ShadowPlay/ShadowPlay/TheShadowPlay
-Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 21.88 ms, found 2 plugins.
-=======
-50148
+51672
 Successfully changed project path to: C:/Users/aimofe01/Documents/ShadowPlay/ShadowPlay/TheShadowPlay
 C:/Users/aimofe01/Documents/ShadowPlay/ShadowPlay/TheShadowPlay
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 22.40 ms, found 2 plugins.
->>>>>>> Stashed changes
+Refreshing native plugins compatible for Editor in 21.05 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.10f1 (297d780c91bc)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/sealfo/Documents/ShadowPlay/ShadowPlay/TheShadowPlay/Assets
+[Subsystems] Discovering subsystems at path C:/Users/aimofe01/Documents/ShadowPlay/ShadowPlay/TheShadowPlay/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
@@ -43,861 +35,1316 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/MonoBleedingEdge/etc'
-<<<<<<< Updated upstream
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56228
-=======
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56388
->>>>>>> Stashed changes
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56768
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-<<<<<<< Updated upstream
-Registered in 0.001842 seconds.
+Registered in 0.001780 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 21.06 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 20.45 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.548 seconds
+- Completed reload, in  1.497 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.002900 seconds.
-=======
-Registered in 0.001724 seconds.
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 20.65 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.424 seconds
-Platform modules already initialized, skipping
-Registering precompiled user dll's ...
-Registered in 0.002754 seconds.
->>>>>>> Stashed changes
+Registered in 0.002914 seconds.
 Begin MonoManager ReloadAssembly
+Symbol file data-00000237765A71C0 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377C0A4010 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000023776169020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377B5ED240 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377AE38020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000023776361420 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377BECA020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377B5ED240 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377AE65A30 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377AE8C020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377B5A0A20 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.27 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-<<<<<<< Updated upstream
-- Completed reload, in  0.820 seconds
-=======
-- Completed reload, in  0.773 seconds
->>>>>>> Stashed changes
+- Completed reload, in  0.765 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
 Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-<<<<<<< Updated upstream
-Unloading 1391 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 64.8 MB.
-System memory in use after: 64.9 MB.
+Unloading 1398 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.0 MB.
+System memory in use after: 65.0 MB.
 
-Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 1824.
-Total: 1.558100 ms (FindLiveObjects: 0.131100 ms CreateObjectMapping: 0.042500 ms MarkObjects: 1.328900 ms  DeleteObjects: 0.054900 ms)
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 1831.
+Total: 1.633700 ms (FindLiveObjects: 0.220700 ms CreateObjectMapping: 0.049800 ms MarkObjects: 1.308900 ms  DeleteObjects: 0.053700 ms)
 
 ========================================================================
 Received Import Request.
-  path: ProjectSettings/TagManager.asset
-  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c4b0e55dd6e1fba11ee36683c1dd1cd') in 0.019956 seconds
-  Import took 0.022547 seconds .
+  path: Assets/Scenes/Luciernagas.unity
+  artifactKey: Guid(c6d5459da3c76724c8e83af6c34758f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Luciernagas.unity using Guid(c6d5459da3c76724c8e83af6c34758f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f62fd753d1bc27910167ac681a0c30de') in 0.009409 seconds
+  Import took 0.011401 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 98.475209 seconds.
+  path: Assets/Scripts/Luciernagas/SpawnerLuciernagsa.cs
+  artifactKey: Guid(abaee0c864b425440916c5cd95700bc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Luciernagas/SpawnerLuciernagsa.cs using Guid(abaee0c864b425440916c5cd95700bc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ec5d5953549a4c36d4f44ec5a4fdd30') in 0.013425 seconds
+  Import took 0.016047 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.002673 seconds.
+Registered in 0.002976 seconds.
 Begin MonoManager ReloadAssembly
+Symbol file data-0000023776229720 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000023776181010 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000023776098420 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000023776330820 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237764D9F30 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000023776181010 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377BECA020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377652D020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000023776722050 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237764D9F30 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377B1929B0 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.76 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.813 seconds
+- Completed reload, in  0.741 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1393 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.9 MB.
+System memory in use after: 65.0 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1834.
+Total: 1.904000 ms (FindLiveObjects: 0.180500 ms CreateObjectMapping: 0.081700 ms MarkObjects: 1.577600 ms  DeleteObjects: 0.062900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 164.128010 seconds.
+  path: Assets/Scripts/Luciernagas/SpawnerLuciernagsa.cs
+  artifactKey: Guid(abaee0c864b425440916c5cd95700bc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Luciernagas/SpawnerLuciernagsa.cs using Guid(abaee0c864b425440916c5cd95700bc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '515854366078f5b070b125390a218463') in 0.005763 seconds
+  Import took 0.007819 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002550 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-000002377B415E60 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377BCD3010 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377C018010 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237760D0010 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237764D9F30 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377BCD3010 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377C6BD420 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377BCD3010 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377C69B020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377DD5A030 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377B1929B0 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.761 seconds
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.29 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1386 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 64.8 MB.
-System memory in use after: 64.8 MB.
+Unloading 1393 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.0 MB.
+System memory in use after: 65.0 MB.
 
-Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 1827.
-Total: 1.619600 ms (FindLiveObjects: 0.150500 ms CreateObjectMapping: 0.048100 ms MarkObjects: 1.336600 ms  DeleteObjects: 0.083700 ms)
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1837.
+Total: 1.518800 ms (FindLiveObjects: 0.126200 ms CreateObjectMapping: 0.037200 ms MarkObjects: 1.320100 ms  DeleteObjects: 0.034600 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.002472 seconds.
+Registered in 0.002605 seconds.
 Begin MonoManager ReloadAssembly
+Symbol file data-000002377612E020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377CB0C010 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377E12CE70 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377C9C0030 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237764D9F30 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377CB0C010 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377C6BD420 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377C9C0030 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377C69B020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377B1BB030 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377B1929B0 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.769 seconds
+Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.26 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1393 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.0 MB.
+System memory in use after: 65.1 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1840.
+Total: 1.487500 ms (FindLiveObjects: 0.122900 ms CreateObjectMapping: 0.038400 ms MarkObjects: 1.289900 ms  DeleteObjects: 0.035700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 159.486753 seconds.
+  path: Assets/Scenes/charapter.unity
+  artifactKey: Guid(70485b27e795ea4408878f6f2bb655de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/charapter.unity using Guid(70485b27e795ea4408878f6f2bb655de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b273cbca645a55d010e134bcf87f1efc') in 0.013718 seconds
+  Import took 0.015776 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.874050 seconds.
+  path: Assets/Prefabs/BichoSombra.prefab
+  artifactKey: Guid(0bb5341d6e22d074db3e5375743bffb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/BichoSombra.prefab using Guid(0bb5341d6e22d074db3e5375743bffb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c70f90e4e90ce115138a8e8a1ce6b87f') in 0.063111 seconds
+  Import took 0.065371 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Prefabs/spawnerLuciernagas.prefab
+  artifactKey: Guid(f434453882f3f27498830e25c89d6c4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/spawnerLuciernagas.prefab using Guid(f434453882f3f27498830e25c89d6c4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '062572d48a2dd3cf42b04c43ed2a9324') in 0.004799 seconds
+  Import took 0.007186 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Prefabs/Luciernagas.prefab
+  artifactKey: Guid(c5e8559b46945224fae83f52cf9abc6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Luciernagas.prefab using Guid(c5e8559b46945224fae83f52cf9abc6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7f899a6c8a37e62279d251e617ae806') in 0.011236 seconds
+  Import took 0.013780 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002955 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-000002377F78D020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377F2CF010 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377B1929B0 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237760D0010 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377C8C5E50 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377B708030 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377EE7F230 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377652D020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377C625010 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377B1BB030 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377C8C0010 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
 - Completed reload, in  0.745 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.31 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1386 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 64.8 MB.
-System memory in use after: 64.9 MB.
+Unloading 1393 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.1 MB.
+System memory in use after: 68.2 MB.
 
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1830.
-Total: 1.999600 ms (FindLiveObjects: 0.205200 ms CreateObjectMapping: 0.056600 ms MarkObjects: 1.693800 ms  DeleteObjects: 0.042600 ms)
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 1852.
+Total: 1.472500 ms (FindLiveObjects: 0.127200 ms CreateObjectMapping: 0.036400 ms MarkObjects: 1.270500 ms  DeleteObjects: 0.037700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.887610 seconds.
+  path: Assets/Prefabs/Enemigos
+  artifactKey: Guid(68b403704b9e07046a5093cf6af981a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enemigos using Guid(68b403704b9e07046a5093cf6af981a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca17bc65a221bf224efff69f9986c592') in 0.007155 seconds
+  Import took 0.008921 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.319576 seconds.
+  path: Assets/Prefabs/Enemigos/BichoSombra
+  artifactKey: Guid(99fc67255c701924f849e010df2519a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enemigos/BichoSombra using Guid(99fc67255c701924f849e010df2519a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5fd243f7ce2392f85486fca876bda53') in 0.003448 seconds
+  Import took 0.005803 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.349898 seconds.
+  path: Assets/Prefabs/Enemigos/Luciernaga
+  artifactKey: Guid(4db88be49be4c7b44bec9c52e17421e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enemigos/Luciernaga using Guid(4db88be49be4c7b44bec9c52e17421e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf8e71f7305f9e22995cc8fc99a220ac') in 0.005393 seconds
+  Import took 0.007461 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 59.225480 seconds.
+  path: Assets/Scenes/Luciernagas.unity
+  artifactKey: Guid(c6d5459da3c76724c8e83af6c34758f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Luciernagas.unity using Guid(c6d5459da3c76724c8e83af6c34758f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f76cf30c172bab31a705695907631eb') in 0.006638 seconds
+  Import took 0.008689 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.002716 seconds.
+Registered in 0.002612 seconds.
 Begin MonoManager ReloadAssembly
+Symbol file data-000002377F78D020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377F8DB040 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377C018010 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377F04B960 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377C8C5E50 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377E1BA010 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377EE7F230 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377652D020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377C493200 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237765699B0 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377B1929B0 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.755 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1393 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.2 MB.
+System memory in use after: 68.2 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1855.
+Total: 1.611500 ms (FindLiveObjects: 0.139600 ms CreateObjectMapping: 0.037600 ms MarkObjects: 1.394600 ms  DeleteObjects: 0.039000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002675 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-000002377E623020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377F8DB040 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377C9C8040 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A04A0020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377B2E9010 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377E1BA010 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377BECA020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377652D020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377E9ED420 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377AE38020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377B1929B0 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.738 seconds
+Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.26 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.758 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.31 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1386 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 64.8 MB.
-System memory in use after: 64.9 MB.
+Unloading 1393 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.2 MB.
+System memory in use after: 68.2 MB.
 
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1833.
-Total: 1.643700 ms (FindLiveObjects: 0.140700 ms CreateObjectMapping: 0.041400 ms MarkObjects: 1.417000 ms  DeleteObjects: 0.043500 ms)
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1858.
+Total: 1.745500 ms (FindLiveObjects: 0.175000 ms CreateObjectMapping: 0.046900 ms MarkObjects: 1.478600 ms  DeleteObjects: 0.044200 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.003382 seconds.
+Registered in 0.002713 seconds.
 Begin MonoManager ReloadAssembly
+Symbol file data-000002377E623020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377F8DB040 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377C9C8040 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377F04B960 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377AB96010 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377BEEA030 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A07CC050 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A07F2260 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377E9ED420 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237765699B0 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377B1929B0 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 0.27 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.782 seconds
+- Completed reload, in  0.730 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.27 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.26 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1386 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 64.8 MB.
-System memory in use after: 64.9 MB.
+Unloading 1393 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.2 MB.
+System memory in use after: 68.2 MB.
 
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1836.
-Total: 1.805700 ms (FindLiveObjects: 0.157000 ms CreateObjectMapping: 0.048300 ms MarkObjects: 1.551300 ms  DeleteObjects: 0.048200 ms)
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1861.
+Total: 1.617800 ms (FindLiveObjects: 0.147800 ms CreateObjectMapping: 0.038300 ms MarkObjects: 1.392800 ms  DeleteObjects: 0.038100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 796.766500 seconds.
+  path: Assets/Scripts/Jugador2D/Health.cs
+  artifactKey: Guid(296576c8e8b76844b944e4c3cac932d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Jugador2D/Health.cs using Guid(296576c8e8b76844b944e4c3cac932d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbef8a4245ebeb27c71601d31b9cbbae') in 0.006663 seconds
+  Import took 0.009104 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.002698 seconds.
+Registered in 0.002594 seconds.
 Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.773 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.31 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1386 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 64.8 MB.
-System memory in use after: 64.9 MB.
-
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1839.
-Total: 1.747000 ms (FindLiveObjects: 0.146300 ms CreateObjectMapping: 0.044900 ms MarkObjects: 1.508500 ms  DeleteObjects: 0.046500 ms)
-=======
-Unloading 1395 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 64.9 MB.
-System memory in use after: 65.0 MB.
-
-Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 1829.
-Total: 1.504700 ms (FindLiveObjects: 0.127800 ms CreateObjectMapping: 0.037100 ms MarkObjects: 1.279400 ms  DeleteObjects: 0.059500 ms)
-
-========================================================================
-Received Import Request.
-  path: Assets/Scenes/Luciernagas.unity
-  artifactKey: Guid(c6d5459da3c76724c8e83af6c34758f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Luciernagas.unity using Guid(c6d5459da3c76724c8e83af6c34758f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6600fc6291081bca4af8f7dea4bf1161') in 0.014216 seconds
-  Import took 0.016055 seconds .
-
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 2.50 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 37.4 MB.
-System memory in use after: 37.5 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1829.
-Total: 1.872300 ms (FindLiveObjects: 0.140300 ms CreateObjectMapping: 0.044300 ms MarkObjects: 1.648900 ms  DeleteObjects: 0.038000 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.494901 seconds.
-  path: Assets/Scenes/Luciernagas.unity
-  artifactKey: Guid(c6d5459da3c76724c8e83af6c34758f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Luciernagas.unity using Guid(c6d5459da3c76724c8e83af6c34758f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00125ea1c1b3884b4295fef74f40fd86') in 0.003066 seconds
-  Import took 0.005204 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 75.812374 seconds.
-  path: Assets/Prefabs/Proyectil.prefab
-  artifactKey: Guid(24ce4f29a6fb275478610798b25e5b4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Proyectil.prefab using Guid(24ce4f29a6fb275478610798b25e5b4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d97182cadef172d3a9ce78ba1bd6ab6') in 0.071812 seconds
-  Import took 0.074374 seconds .
->>>>>>> Stashed changes
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-<<<<<<< Updated upstream
-Registered in 0.002851 seconds.
-Begin MonoManager ReloadAssembly
+Symbol file data-000002377F78D020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377F341050 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377C9C8040 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377B5E8010 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377DB22010 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377BEEA030 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A07CC050 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377B5E8010 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377E9ED420 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237765699B0 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237769A4020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 0.27 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.774 seconds
+- Completed reload, in  0.721 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1393 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.2 MB.
+System memory in use after: 68.3 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1864.
+Total: 1.615700 ms (FindLiveObjects: 0.140900 ms CreateObjectMapping: 0.039600 ms MarkObjects: 1.396500 ms  DeleteObjects: 0.038100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002568 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-0000023776338700 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377EB800C0 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377C9C8040 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377EF03030 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377B4E0010 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A0F34010 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377C52C030 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377EF03030 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377E9ED420 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377DB22010 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237769A4020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.756 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1393 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.2 MB.
+System memory in use after: 68.3 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1867.
+Total: 1.740100 ms (FindLiveObjects: 0.127100 ms CreateObjectMapping: 0.037500 ms MarkObjects: 1.500300 ms  DeleteObjects: 0.074500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002651 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-00000237A0F3DE40 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377EB800C0 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377E39A020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377EF03030 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377B4E0010 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377EB800C0 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377DB22010 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377EF03030 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377E9ED420 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237765699B0 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377B1929B0 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.729 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1393 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.2 MB.
+System memory in use after: 68.3 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1870.
+Total: 1.678600 ms (FindLiveObjects: 0.231100 ms CreateObjectMapping: 0.049000 ms MarkObjects: 1.355900 ms  DeleteObjects: 0.041800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002552 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-000002377EB89EF0 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377DCF4CA0 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377E39A020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377EF03030 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A1802010 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377DCF4CA0 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A1535EE0 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377EF03030 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377E9ED420 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237765699B0 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377B1929B0 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.761 seconds
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.29 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1386 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 64.8 MB.
-System memory in use after: 64.9 MB.
+Unloading 1393 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.2 MB.
+System memory in use after: 68.3 MB.
 
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1842.
-Total: 1.444200 ms (FindLiveObjects: 0.125700 ms CreateObjectMapping: 0.038100 ms MarkObjects: 1.243300 ms  DeleteObjects: 0.036600 ms)
-=======
-Registered in 0.002743 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.751 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.30 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1390 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 68.0 MB.
-System memory in use after: 68.1 MB.
-
-Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 1840.
-Total: 1.646200 ms (FindLiveObjects: 0.130400 ms CreateObjectMapping: 0.039300 ms MarkObjects: 1.429900 ms  DeleteObjects: 0.045800 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 19.233883 seconds.
-  path: Assets/Prefabs/Luciernagas.prefab
-  artifactKey: Guid(c5e8559b46945224fae83f52cf9abc6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Luciernagas.prefab using Guid(c5e8559b46945224fae83f52cf9abc6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '989d486f5088df28854fc4d58d796797') in 0.048488 seconds
-  Import took 0.050575 seconds .
->>>>>>> Stashed changes
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1873.
+Total: 1.596100 ms (FindLiveObjects: 0.133400 ms CreateObjectMapping: 0.037700 ms MarkObjects: 1.385000 ms  DeleteObjects: 0.039400 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-<<<<<<< Updated upstream
-Registered in 0.002700 seconds.
-=======
-Registered in 0.002763 seconds.
->>>>>>> Stashed changes
+Registered in 0.002672 seconds.
 Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-<<<<<<< Updated upstream
-- Completed reload, in  0.758 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.55 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1386 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 64.8 MB.
-System memory in use after: 64.9 MB.
-
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1845.
-Total: 1.673900 ms (FindLiveObjects: 0.135900 ms CreateObjectMapping: 0.040300 ms MarkObjects: 1.452800 ms  DeleteObjects: 0.044100 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002848 seconds.
-Begin MonoManager ReloadAssembly
+Symbol file data-0000023776A77050 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A0550020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377E39A020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377646C010 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A181C040 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A0550020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377DB22010 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377646C010 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377E123040 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237765699B0 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377B1929B0 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 0.27 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.760 seconds
+- Completed reload, in  0.731 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.26 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1386 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 64.8 MB.
-System memory in use after: 64.9 MB.
+Unloading 1393 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.2 MB.
+System memory in use after: 68.3 MB.
 
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1848.
-Total: 1.533000 ms (FindLiveObjects: 0.122400 ms CreateObjectMapping: 0.036000 ms MarkObjects: 1.335100 ms  DeleteObjects: 0.038200 ms)
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1876.
+Total: 1.612200 ms (FindLiveObjects: 0.132100 ms CreateObjectMapping: 0.038400 ms MarkObjects: 1.392500 ms  DeleteObjects: 0.048500 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.002543 seconds.
+Registered in 0.002655 seconds.
 Begin MonoManager ReloadAssembly
+Symbol file data-00000237A1AE3E70 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377B2E9010 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377E39A020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377EF03030 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377B4E0010 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377B2E9010 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377DB22010 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377EF03030 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A1BB1030 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237765699B0 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377B1929B0 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.29 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.790 seconds
+- Completed reload, in  0.737 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.30 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.25 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1386 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 64.9 MB.
-System memory in use after: 64.9 MB.
+Unloading 1393 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.2 MB.
+System memory in use after: 68.3 MB.
 
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1851.
-Total: 1.607700 ms (FindLiveObjects: 0.131600 ms CreateObjectMapping: 0.039200 ms MarkObjects: 1.360900 ms  DeleteObjects: 0.075300 ms)
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1879.
+Total: 1.472800 ms (FindLiveObjects: 0.121400 ms CreateObjectMapping: 0.038300 ms MarkObjects: 1.277000 ms  DeleteObjects: 0.035500 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.002648 seconds.
+Registered in 0.002570 seconds.
 Begin MonoManager ReloadAssembly
+Symbol file data-000002377C8BAE80 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A1B9F010 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377C7490B0 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377646C010 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A25A4020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A1B9F010 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377DB22010 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377646C010 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A1489C90 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237765699B0 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377B1929B0 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.783 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.35 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1386 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 64.9 MB.
-System memory in use after: 64.9 MB.
-
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1854.
-Total: 1.562800 ms (FindLiveObjects: 0.131900 ms CreateObjectMapping: 0.039700 ms MarkObjects: 1.317500 ms  DeleteObjects: 0.073000 ms)
-=======
-- Completed reload, in  0.746 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.31 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1390 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 68.1 MB.
-System memory in use after: 68.2 MB.
-
-Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 1844.
-Total: 1.541400 ms (FindLiveObjects: 0.125300 ms CreateObjectMapping: 0.038700 ms MarkObjects: 1.323200 ms  DeleteObjects: 0.053600 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 72.456391 seconds.
-  path: Assets/Prefabs/Luciernagas.prefab
-  artifactKey: Guid(c5e8559b46945224fae83f52cf9abc6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Luciernagas.prefab using Guid(c5e8559b46945224fae83f52cf9abc6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d76aca2f712f97fec8ef3e6f95d9e12') in 0.043097 seconds
-  Import took 0.045102 seconds .
->>>>>>> Stashed changes
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-<<<<<<< Updated upstream
-Registered in 0.003320 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.30 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.889 seconds
-=======
-Registered in 0.003371 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.35 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.919 seconds
->>>>>>> Stashed changes
+- Completed reload, in  0.749 seconds
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.32 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-<<<<<<< Updated upstream
-Unloading 1386 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 64.9 MB.
-System memory in use after: 64.9 MB.
+Unloading 1393 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.2 MB.
+System memory in use after: 68.3 MB.
 
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1857.
-Total: 1.748500 ms (FindLiveObjects: 0.193100 ms CreateObjectMapping: 0.069100 ms MarkObjects: 1.440200 ms  DeleteObjects: 0.044800 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002681 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.29 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.815 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1386 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 64.9 MB.
-System memory in use after: 65.0 MB.
-
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1860.
-Total: 1.680600 ms (FindLiveObjects: 0.129400 ms CreateObjectMapping: 0.038300 ms MarkObjects: 1.463500 ms  DeleteObjects: 0.048700 ms)
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1882.
+Total: 2.032800 ms (FindLiveObjects: 0.163600 ms CreateObjectMapping: 0.050200 ms MarkObjects: 1.775100 ms  DeleteObjects: 0.043000 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.002835 seconds.
+Registered in 0.002605 seconds.
 Begin MonoManager ReloadAssembly
+Symbol file data-00000237A1855EB0 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377DB86020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377E39A020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A1C2B020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A25A4020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377DB86020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377DB22010 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A1C2B020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A1489C90 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A28F7020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377B1929B0 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.774 seconds
-Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1386 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 64.9 MB.
-System memory in use after: 65.0 MB.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.748 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1393 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.2 MB.
+System memory in use after: 68.3 MB.
 
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1863.
-Total: 2.093100 ms (FindLiveObjects: 0.252400 ms CreateObjectMapping: 0.075300 ms MarkObjects: 1.685500 ms  DeleteObjects: 0.078800 ms)
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1885.
+Total: 1.524400 ms (FindLiveObjects: 0.142500 ms CreateObjectMapping: 0.038900 ms MarkObjects: 1.306000 ms  DeleteObjects: 0.036300 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.002504 seconds.
+Registered in 0.003762 seconds.
 Begin MonoManager ReloadAssembly
+Symbol file data-0000023776475E40 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A2907030 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377E39A020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A1C2B020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A25A4020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A2907030 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A2C9F010 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A1C2B020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A1489C90 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237765699B0 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377B1929B0 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 0.27 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.782 seconds
+- Completed reload, in  0.749 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.45 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.27 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1386 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 64.9 MB.
-System memory in use after: 65.0 MB.
+Unloading 1393 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.2 MB.
+System memory in use after: 68.3 MB.
 
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1866.
-Total: 1.533000 ms (FindLiveObjects: 0.132400 ms CreateObjectMapping: 0.040300 ms MarkObjects: 1.317500 ms  DeleteObjects: 0.042300 ms)
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1888.
+Total: 1.576300 ms (FindLiveObjects: 0.129200 ms CreateObjectMapping: 0.038200 ms MarkObjects: 1.330200 ms  DeleteObjects: 0.078100 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.002846 seconds.
+Registered in 0.002807 seconds.
 Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.783 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1386 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 64.9 MB.
-System memory in use after: 65.0 MB.
-
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1869.
-Total: 1.512900 ms (FindLiveObjects: 0.127400 ms CreateObjectMapping: 0.035200 ms MarkObjects: 1.305700 ms  DeleteObjects: 0.043900 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002766 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.32 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.790 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.31 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1386 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 64.9 MB.
-System memory in use after: 65.0 MB.
-
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1872.
-Total: 1.728800 ms (FindLiveObjects: 0.140900 ms CreateObjectMapping: 0.041200 ms MarkObjects: 1.498700 ms  DeleteObjects: 0.046800 ms)
-=======
-Unloading 1390 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 68.1 MB.
-System memory in use after: 68.2 MB.
-
-Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 1849.
-Total: 1.866300 ms (FindLiveObjects: 0.165500 ms CreateObjectMapping: 0.047100 ms MarkObjects: 1.600700 ms  DeleteObjects: 0.052000 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 102.590778 seconds.
-  path: Assets/Scripts/Luciernagas/SpawnLuciernaga.cs
-  artifactKey: Guid(52f904f3193ab3e41b3e51dc54384d57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Luciernagas/SpawnLuciernaga.cs using Guid(52f904f3193ab3e41b3e51dc54384d57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc5de67e8c00e221cee045e0d955aa12') in 0.016795 seconds
-  Import took 0.019003 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 55.160559 seconds.
-  path: Assets/Prefabs/spawnerLuciernagas.prefab
-  artifactKey: Guid(f434453882f3f27498830e25c89d6c4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/spawnerLuciernagas.prefab using Guid(f434453882f3f27498830e25c89d6c4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '549ac287ce43eefd751adeecfe594bfb') in 0.024345 seconds
-  Import took 0.027527 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 6.602228 seconds.
-  path: Assets/Prefabs/spawnerLuciernagas.prefab
-  artifactKey: Guid(f434453882f3f27498830e25c89d6c4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/spawnerLuciernagas.prefab using Guid(f434453882f3f27498830e25c89d6c4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9863c95e4f322b487d78f5f11e67dc39') in 0.004834 seconds
-  Import took 0.007275 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 3.414844 seconds.
-  path: Assets/Prefabs/spawnerLuciernagas.prefab
-  artifactKey: Guid(f434453882f3f27498830e25c89d6c4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/spawnerLuciernagas.prefab using Guid(f434453882f3f27498830e25c89d6c4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8dbfa596158c2da66ac02583a40a8d9') in 0.008819 seconds
-  Import took 0.011328 seconds .
->>>>>>> Stashed changes
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-<<<<<<< Updated upstream
-Registered in 0.002952 seconds.
-=======
-Registered in 0.103187 seconds.
->>>>>>> Stashed changes
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.30 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-<<<<<<< Updated upstream
-- Completed reload, in  0.802 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.29 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1386 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 64.9 MB.
-System memory in use after: 65.0 MB.
-
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1875.
-Total: 1.662800 ms (FindLiveObjects: 0.187100 ms CreateObjectMapping: 0.061700 ms MarkObjects: 1.374000 ms  DeleteObjects: 0.039400 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002638 seconds.
-Begin MonoManager ReloadAssembly
+Symbol file data-000002377FA10080 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000023776722050 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377C54C040 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377EF03030 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A25A4020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000023776722050 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237765699B0 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377EF03030 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A1BD1040 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377B4E0010 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377B1929B0 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 0.27 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.735 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1393 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.2 MB.
+System memory in use after: 68.3 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1891.
+Total: 1.504200 ms (FindLiveObjects: 0.129100 ms CreateObjectMapping: 0.040400 ms MarkObjects: 1.298700 ms  DeleteObjects: 0.035100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002839 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-00000237A2980C90 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A2C4D030 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377C7490B0 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A15D6020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377B4E0010 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A2C4D030 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377DB22010 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A15D6020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377C0A4010 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A1BB1030 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377B1929B0 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.733 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1393 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.2 MB.
+System memory in use after: 68.3 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1894.
+Total: 2.269900 ms (FindLiveObjects: 0.346900 ms CreateObjectMapping: 0.067800 ms MarkObjects: 1.756300 ms  DeleteObjects: 0.097600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002736 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-000002377EF0CE60 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A2C4D030 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377DB42020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A2976E60 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377B4E0010 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A2C4D030 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237765699B0 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A2976E60 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377A97A020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377B4E0010 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377B1929B0 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.740 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1393 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.2 MB.
+System memory in use after: 68.3 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1897.
+Total: 1.468600 ms (FindLiveObjects: 0.128900 ms CreateObjectMapping: 0.037500 ms MarkObjects: 1.265600 ms  DeleteObjects: 0.036000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002679 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-000002377FA10080 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A2C4D030 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377C7490B0 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A09BD0D0 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A3794020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A2C4D030 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A3B10020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A09BD0D0 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A309D1C0 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A3048CB0 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377B1929B0 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.754 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1393 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.2 MB.
+System memory in use after: 68.3 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1900.
+Total: 2.095700 ms (FindLiveObjects: 0.139400 ms CreateObjectMapping: 0.035500 ms MarkObjects: 1.837200 ms  DeleteObjects: 0.082900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002652 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-000002377FA10080 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377F301020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377BDD6E40 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A09BD0D0 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A3794020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A389B010 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A3B10020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A09BD0D0 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377C0A4010 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A307D040 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377B1929B0 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
 - Completed reload, in  0.747 seconds
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.27 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1386 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 64.9 MB.
-System memory in use after: 65.0 MB.
+Unloading 1393 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.3 MB.
+System memory in use after: 68.3 MB.
 
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1878.
-Total: 1.643300 ms (FindLiveObjects: 0.168900 ms CreateObjectMapping: 0.044900 ms MarkObjects: 1.386600 ms  DeleteObjects: 0.041800 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002560 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.26 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.771 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1386 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 64.9 MB.
-System memory in use after: 65.0 MB.
-
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1881.
-Total: 1.547500 ms (FindLiveObjects: 0.134900 ms CreateObjectMapping: 0.039900 ms MarkObjects: 1.329400 ms  DeleteObjects: 0.042500 ms)
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1903.
+Total: 1.565000 ms (FindLiveObjects: 0.144300 ms CreateObjectMapping: 0.064500 ms MarkObjects: 1.277300 ms  DeleteObjects: 0.078200 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.002831 seconds.
+Registered in 0.002923 seconds.
 Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.27 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.733 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.29 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1386 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 64.9 MB.
-System memory in use after: 65.0 MB.
-
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1884.
-Total: 1.658700 ms (FindLiveObjects: 0.130900 ms CreateObjectMapping: 0.038900 ms MarkObjects: 1.448500 ms  DeleteObjects: 0.039600 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 1325.242114 seconds.
-  path: Assets/Scripts/charapter/rbCharapter.cs
-  artifactKey: Guid(27d9ecad99ad6c2468d6e926a9386835) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/charapter/rbCharapter.cs using Guid(27d9ecad99ad6c2468d6e926a9386835) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17a76b26ee82b4e4631fdc5f14c9722c') in 0.013237 seconds
-  Import took 0.015284 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000371 seconds.
-  path: Assets/Scripts/charapter/rbCharapter.cs
-  artifactKey: Guid(27d9ecad99ad6c2468d6e926a9386835) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/charapter/rbCharapter.cs using Guid(27d9ecad99ad6c2468d6e926a9386835) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17a76b26ee82b4e4631fdc5f14c9722c') in 0.002425 seconds
-  Import took 0.004124 seconds .
-=======
-- Completed reload, in  0.823 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.29 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1390 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 68.1 MB.
-System memory in use after: 68.2 MB.
-
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1852.
-Total: 1.619800 ms (FindLiveObjects: 0.133500 ms CreateObjectMapping: 0.045500 ms MarkObjects: 1.397700 ms  DeleteObjects: 0.042300 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 91.189753 seconds.
-  path: Assets/Prefabs/spawnerLuciernagas.prefab
-  artifactKey: Guid(f434453882f3f27498830e25c89d6c4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/spawnerLuciernagas.prefab using Guid(f434453882f3f27498830e25c89d6c4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3bc7bd98a4b7d440618ec73127b80b7') in 0.022277 seconds
-  Import took 0.024843 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.560438 seconds.
-  path: Assets/Prefabs/spawnerLuciernagas.prefab
-  artifactKey: Guid(f434453882f3f27498830e25c89d6c4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/spawnerLuciernagas.prefab using Guid(f434453882f3f27498830e25c89d6c4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '062572d48a2dd3cf42b04c43ed2a9324') in 0.005751 seconds
-  Import took 0.008780 seconds .
->>>>>>> Stashed changes
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-<<<<<<< Updated upstream
-Registered in 0.003365 seconds.
-=======
-Registered in 0.002757 seconds.
->>>>>>> Stashed changes
-Begin MonoManager ReloadAssembly
+Symbol file data-000002377FA10080 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A1489C50 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377C7490B0 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377C53C040 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A3794020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A389B010 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A4221030 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377C53C040 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377C0A4010 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A3794020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377B1929B0 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 0.27 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-<<<<<<< Updated upstream
-- Completed reload, in  0.749 seconds
+- Completed reload, in  0.724 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.29 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.31 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1386 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 64.9 MB.
-System memory in use after: 65.0 MB.
+Unloading 1393 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.3 MB.
+System memory in use after: 68.3 MB.
 
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1887.
-Total: 1.648300 ms (FindLiveObjects: 0.191800 ms CreateObjectMapping: 0.042800 ms MarkObjects: 1.342000 ms  DeleteObjects: 0.070800 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 38.779297 seconds.
-  path: Assets/Scripts/charapter/rbCharapter.cs
-  artifactKey: Guid(27d9ecad99ad6c2468d6e926a9386835) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/charapter/rbCharapter.cs using Guid(27d9ecad99ad6c2468d6e926a9386835) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd29209de77019c9434f02cfa24ab779d') in 0.007843 seconds
-  Import took 0.009677 seconds .
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1906.
+Total: 1.794500 ms (FindLiveObjects: 0.239200 ms CreateObjectMapping: 0.054900 ms MarkObjects: 1.416500 ms  DeleteObjects: 0.083100 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.002841 seconds.
+Registered in 0.002602 seconds.
 Begin MonoManager ReloadAssembly
+Symbol file data-000002377C545E70 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A41AD020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377C7490B0 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A1C2B020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A3794020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A389B010 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A3B10020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A09BD0D0 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A43C3030 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377B4F0020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A42FC020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 0.27 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.787 seconds
+- Completed reload, in  0.746 seconds
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.29 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1386 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 64.9 MB.
-System memory in use after: 65.0 MB.
+Unloading 1393 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.3 MB.
+System memory in use after: 68.3 MB.
 
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1890.
-Total: 1.953800 ms (FindLiveObjects: 0.160700 ms CreateObjectMapping: 0.053500 ms MarkObjects: 1.694500 ms  DeleteObjects: 0.044100 ms)
-=======
-- Completed reload, in  0.737 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.29 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1390 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 68.1 MB.
-System memory in use after: 68.2 MB.
-
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1855.
-Total: 1.626200 ms (FindLiveObjects: 0.132200 ms CreateObjectMapping: 0.039900 ms MarkObjects: 1.411500 ms  DeleteObjects: 0.041900 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 117.280014 seconds.
-  path: Assets/Scripts/Jugador2D/Health.cs
-  artifactKey: Guid(296576c8e8b76844b944e4c3cac932d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Jugador2D/Health.cs using Guid(296576c8e8b76844b944e4c3cac932d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbef8a4245ebeb27c71601d31b9cbbae') in 0.007934 seconds
-  Import took 0.010354 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.004214 seconds.
-  path: Assets/Scripts/Luciernagas/SpawnLuciernaga.cs
-  artifactKey: Guid(52f904f3193ab3e41b3e51dc54384d57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Luciernagas/SpawnLuciernaga.cs using Guid(52f904f3193ab3e41b3e51dc54384d57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67ca464c2c759f784fb2b88b5f2916fd') in 0.004720 seconds
-  Import took 0.006705 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.004754 seconds.
-  path: Assets/Scripts/Luciernagas/SpawnerLuciernagsa.cs
-  artifactKey: Guid(abaee0c864b425440916c5cd95700bc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Luciernagas/SpawnerLuciernagsa.cs using Guid(abaee0c864b425440916c5cd95700bc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ec5d5953549a4c36d4f44ec5a4fdd30') in 0.004469 seconds
-  Import took 0.006380 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.008641 seconds.
-  path: Assets/Scripts/GameManager2D.cs
-  artifactKey: Guid(e5802e2567594364d983d10283492a50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/GameManager2D.cs using Guid(e5802e2567594364d983d10283492a50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a967ed8676f7f9d2fb5cffaea540415') in 0.004924 seconds
-  Import took 0.006809 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.035429 seconds.
-  path: Assets/Scripts/Luciernagas/Luciernagas.cs
-  artifactKey: Guid(c8cece2428fb7b54eb903f5cfaa2c3a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Luciernagas/Luciernagas.cs using Guid(c8cece2428fb7b54eb903f5cfaa2c3a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '698439e5495b86debeb77d048b63b4e6') in 0.004790 seconds
-  Import took 0.006894 seconds .
->>>>>>> Stashed changes
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1909.
+Total: 1.728800 ms (FindLiveObjects: 0.135300 ms CreateObjectMapping: 0.041700 ms MarkObjects: 1.510500 ms  DeleteObjects: 0.040500 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-<<<<<<< Updated upstream
-Registered in 0.002479 seconds.
+Registered in 0.002527 seconds.
 Begin MonoManager ReloadAssembly
+Symbol file data-000002377FA10080 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A41AD020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377C7490B0 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A1C2B020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A3794020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A389B010 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A3B10020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A09BD0D0 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A1BD1000 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A4211020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377B1929B0 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.32 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.27 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.786 seconds
+- Completed reload, in  0.709 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.33 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.27 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1386 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 64.9 MB.
-System memory in use after: 65.0 MB.
+Unloading 1393 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.3 MB.
+System memory in use after: 68.3 MB.
 
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1893.
-Total: 1.663200 ms (FindLiveObjects: 0.135900 ms CreateObjectMapping: 0.039800 ms MarkObjects: 1.441100 ms  DeleteObjects: 0.045600 ms)
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1912.
+Total: 1.640800 ms (FindLiveObjects: 0.155900 ms CreateObjectMapping: 0.038800 ms MarkObjects: 1.407700 ms  DeleteObjects: 0.037600 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.002635 seconds.
+Registered in 0.002661 seconds.
 Begin MonoManager ReloadAssembly
+Symbol file data-000002377FA10080 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A41AD020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A4C87060 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A389B010 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A3794020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A41AD020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A25A4020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A389B010 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A1BD1000 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377B4E0010 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377B1929B0 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.766 seconds
+- Completed reload, in  0.745 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1393 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.3 MB.
+System memory in use after: 68.4 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1915.
+Total: 1.520400 ms (FindLiveObjects: 0.132300 ms CreateObjectMapping: 0.038900 ms MarkObjects: 1.312600 ms  DeleteObjects: 0.036000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002640 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-000002377FA10080 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377B500050 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377C7490B0 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A45F8040 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A5048030 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377B500050 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A48E1010 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A45F8040 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A1BD1000 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A4C27010 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377B1929B0 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.736 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1393 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.3 MB.
+System memory in use after: 68.4 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1918.
+Total: 1.675300 ms (FindLiveObjects: 0.226500 ms CreateObjectMapping: 0.047100 ms MarkObjects: 1.352600 ms  DeleteObjects: 0.048400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002613 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-000002377FA10080 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377B500050 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A294F0C0 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A4788020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A342D040 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377B500050 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A527A020 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A52A0230 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A1BD1000 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000237A342D040 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002377B1929B0 doesn't match image C:\Users\aimofe01\Documents\ShadowPlay\ShadowPlay\TheShadowPlay\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.736 seconds
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1386 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 65.0 MB.
-System memory in use after: 65.0 MB.
+Unloading 1393 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.3 MB.
+System memory in use after: 68.4 MB.
 
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1896.
-Total: 1.539200 ms (FindLiveObjects: 0.132100 ms CreateObjectMapping: 0.038300 ms MarkObjects: 1.332100 ms  DeleteObjects: 0.036100 ms)
-=======
-Registered in 0.002644 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.824 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1390 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 68.1 MB.
-System memory in use after: 68.2 MB.
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1921.
+Total: 1.554200 ms (FindLiveObjects: 0.133000 ms CreateObjectMapping: 0.039900 ms MarkObjects: 1.343700 ms  DeleteObjects: 0.036900 ms)
 
-Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 1858.
-Total: 1.788900 ms (FindLiveObjects: 0.158800 ms CreateObjectMapping: 0.057400 ms MarkObjects: 1.501400 ms  DeleteObjects: 0.070500 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 572.054176 seconds.
-  path: Assets/Prefabs/BichoSombra.prefab
-  artifactKey: Guid(0bb5341d6e22d074db3e5375743bffb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/BichoSombra.prefab using Guid(0bb5341d6e22d074db3e5375743bffb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c70f90e4e90ce115138a8e8a1ce6b87f') in 0.051592 seconds
-  Import took 0.054203 seconds .
->>>>>>> Stashed changes
-
-AssetImportWorkerClient::OnTransportError - code=2 error=End of file

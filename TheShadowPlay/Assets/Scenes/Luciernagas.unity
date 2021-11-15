@@ -306,6 +306,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2118067642, guid: c5e8559b46945224fae83f52cf9abc6c, type: 3}
+      propertyPath: velocidad
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2118067647, guid: c5e8559b46945224fae83f52cf9abc6c, type: 3}
       propertyPath: m_Constraints
       value: 0
@@ -371,6 +375,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 8182899845865892778, guid: f434453882f3f27498830e25c89d6c4e, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8182899845865892780, guid: f434453882f3f27498830e25c89d6c4e, type: 3}
       propertyPath: m_Name
       value: spawnerLuciernagas

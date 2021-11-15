@@ -6,12 +6,14 @@ public class Luciernagas : MonoBehaviour
 {
     Vector3 newposition;
     Vector3 direccion;
+    public Vector3 target;
+    public bool Gototarget;
     //Vector3 direccionNormalizada;
     public float velocidad;
     bool moviendose=true;
+    
 
-
-    public float wanderRadius = 5f; //Radio en el que se mueve el murciélago
+   // public float wanderRadius = 5f; //Radio en el que se mueve el murciélago
     public Rigidbody luciernaga;
    
     //void Girar()
@@ -37,26 +39,39 @@ public class Luciernagas : MonoBehaviour
     void FixedUpdate()
     {
         //Volar();
-
-        //luciernaga.
-
-        if (moviendose == true)
+        if (Input.GetKey(KeyCode.Space))
         {
-            print("Starting " + Time.time + " seconds");
-
-            // Start function WaitAndPrint as a coroutine.
-            direccion = new Vector3(Random.Range(-1f, 1f), Random.Range(-1f, 1f), 0);
-
-
-            luciernaga.velocity = transform.TransformDirection(velocidad * direccion);
-            luciernaga.angularVelocity= transform.TransformDirection(velocidad * direccion);
-            
-
-            coroutine = WaitAndPrint(Random.Range(1f, 4f));
-            StartCoroutine(coroutine);
-
-
+            transform.position = Vector3.Lerp(transform.position, target, 0.1f);
+            //luciernaga.velocity = transform.TransformDirection(velocidad * (transform.position - target));
+            //transform.position += (transform.position - target).normalized * velocidad * Time.deltaTime;
+            //Gototarget = true;
         }
+        //luciernaga.
+        if (Gototarget == true)
+        {
+            //luciernaga.velocity = transform.TransformDirection(velocidad * (transform.position - target));
+            
+            //transform.position += (transform.position - target).normalized * velocidad ;
+           // Debug.Log("semueve");
+            //luciernaga.velocity = transform.TransformDirection(velocidad * target);
+        }
+        else
+        {
+            if (moviendose == true )
+            {
+                direccion = new Vector3(Random.Range(-1f, 1f), Random.Range(-1f, 1f), 0);
+
+                luciernaga.velocity = transform.TransformDirection(velocidad * direccion);
+                luciernaga.angularVelocity = transform.TransformDirection(velocidad * direccion);
+
+                coroutine = Movimiento(Random.Range(1f, 3f));
+
+                StartCoroutine(coroutine);
+
+
+            }
+        }
+        
 
     }
     //void CambiarDireccion()//Asigna una posicion nueva dentro de un circulo
@@ -78,7 +93,7 @@ public class Luciernagas : MonoBehaviour
         //transform.position += transform.forward + direccion.normalized * velocidad;
 
     }
-    private IEnumerator WaitAndPrint(float waitTime)
+    private IEnumerator Movimiento(float waitTime)
     {
         moviendose = false;
         yield return new WaitForSeconds(waitTime);

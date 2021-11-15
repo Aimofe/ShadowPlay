@@ -7,10 +7,12 @@ public class SpawnerLuciernagsa : MonoBehaviour
     // Start is called before the first frame update
     public Rigidbody luciernaga;
     bool disparando;
+    public int numluciernagas;
+    public List<GameObject> luciernagas;
 
     void Update()
     {
-        if (disparando == false)
+        if (disparando == false&&numluciernagas!=luciernagas.Count)
         {
             StartCoroutine("Espera");
         }
@@ -25,7 +27,7 @@ public class SpawnerLuciernagsa : MonoBehaviour
         clone.gameObject.SetActive(true);
 
        
-        yield return new WaitForSeconds(2f);
+        yield return new WaitForSeconds(3f);
         disparando = false;
 
     }
